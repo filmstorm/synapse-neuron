@@ -203,6 +203,6 @@ Proprietary software. Access Synapse tier on Patreon required to use the applica
 
 **Synapse:Connect** - Professional Animation Authoring for Games
 
-[![Patreon](https://img.shields.io/badge/Patreon-Join_Now-F96854?style=flat-square&logo=patreon&logoColor=white)](https://www.patreon.com/c/filmstorm/membership) [![Platform](https://img.shields.io/badge/Platform-Linux-blue?style=flat-square)](https://github.com/filmstorm/synapse-connect-releases) [![Windows](https://img.shields.io/badge/Windows-Coming_Soon-orange?style=flat-square)](https://github.com/filmstorm/synapse-connect-releases)
+[![Patreon](https://img.shields.io/badge/Patreon-Join_Now-F96854?style=flat-square&logo=patreon&logoColor=white)](https://www.patreon.com/c/filmstorm/membership) [![Platform](https://img.shields.io/badge/Platform-Linux-blue?style=flat-square)](https://github.com/filmstorm/synapse-neuron/releases) [![Windows](https://img.shields.io/badge/Windows-Coming_Soon-orange?style=flat-square)](https://github.com/filmstorm/synapse-neuron/releases)
 
 </div>
