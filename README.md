@@ -2,6 +2,8 @@
 
 A professional node-based animation authoring system for game development and animation production.
 
+**![Browse and view latest releases (currently in pre-release alpha)](https://github.com/filmstorm/synapse-neuron/releases)**
+
 ## Access Required
 
 <div align="center">
