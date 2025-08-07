@@ -1,0 +1,36 @@
+Filmstorm Proprietary Software License
+
+Copyright (c) 2025 Filmstorm Pty Ltd. All rights reserved.
+
+This license applies to the following software products:
+- Synapse:Connect (Animation Authoring Application)
+- Synapse:Runtime (Animation Engine)
+- Neuron (Dynamic Motion Synthesis Module)
+
+NOTICE: This is proprietary software. This source code is the confidential and proprietary 
+property of Filmstorm Pty Ltd and is provided solely for evaluation purposes.
+
+NO LICENSE GRANTED: This notice does not grant you any rights to use, copy, modify, 
+distribute, or commercialize the Software. All rights not expressly granted are reserved 
+by Filmstorm Pty Ltd.
+
+RESTRICTIONS: You may not:
+1. Use the Software for any commercial or production purpose
+2. Copy, modify, merge, or create derivative works based on the Software
+3. Distribute, sublicense, lease, rent, or transfer the Software to any third party
+4. Reverse engineer, decompile, or disassemble the Software
+5. Remove or alter any proprietary notices or labels on the Software
+
+EVALUATION ONLY: This repository is provided for evaluation and demonstration purposes only. 
+Any use beyond examination of the code requires a separate commercial license agreement 
+with Filmstorm Pty Ltd.
+
+NO WARRANTY: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A 
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL FILMSTORM PTY LTD BE LIABLE 
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
+
+For licensing inquiries, please contact: team@filmstorm.net
+
+Filmstorm Pty Ltd
+Canberra, Australia
